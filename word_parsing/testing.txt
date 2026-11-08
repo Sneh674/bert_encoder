@@ -1,0 +1,10 @@
+Attention mechanisms help transformers understand context.
+BERT generates contextual word representations.
+Machine learning models identify patterns in datasets.
+Neural networks are trained using optimization algorithms.
+Natural language processing is used in chatbots.
+A computer executes instructions written in programs.
+Python supports several machine learning libraries.
+The encoder transforms token embeddings into contextual representations.
+Students learn algorithms during their computer science courses.
+Information retrieval systems help users find relevant documents.

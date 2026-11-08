@@ -27,8 +27,13 @@ class BertEmbeddings(nn.Module):
         self.dropout = nn.Dropout(dropout_prob)
 
     def forward(self, input_ids):
+        # print("input ids shape:",input_ids.shape)
 
-        batch_size, seq_length = input_ids.shape
+        # batch_size, seq_length = input_ids.shape
+        # seq_length = input_ids.shape
+        seq_length = input_ids.size(0)
+        # print("num_sequences:", num_sequences)
+        print("seq_length:", seq_length)
 
         # Generate position IDs
         positions = torch.arange(

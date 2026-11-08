@@ -1,0 +1,38 @@
+Machine learning allows computers to learn patterns from data.
+Deep learning is a subset of machine learning.
+Neural networks consist of multiple layers of interconnected neurons.
+Natural language processing helps computers understand human language.
+Transformers use attention mechanisms to process sequential data.
+BERT stands for Bidirectional Encoder Representations from Transformers.
+BERT learns contextual representations of words.
+Word embeddings convert words into numerical vectors.
+Tokenization converts text into smaller units called tokens.
+Self attention helps a model understand relationships between words.
+Python is widely used for machine learning and deep learning.
+PyTorch is a popular framework for building neural networks.
+A neural network learns by updating its parameters during training.
+Gradient descent minimizes the loss function.
+Backpropagation calculates gradients for model parameters.
+The encoder processes input tokens and produces contextual embeddings.
+The attention mechanism assigns importance to different tokens.
+Natural language models can perform text classification.
+Search engines retrieve relevant documents based on user queries.
+Information retrieval focuses on finding relevant information.
+The weather is pleasant today.
+I enjoy learning new programming languages.
+Computer science includes algorithms and data structures.
+A database stores information in an organized manner.
+Corona is a beer brand.
+Software engineers develop applications using programming languages.
+Artificial intelligence is transforming many industries.
+The student is studying computer science at the university.
+A dog is playing in the garden.
+The corona virus was a very severe virus which lead to several deaths. It took a long time for the threat of the virus to go away.
+The sun rises in the east.
+The internet connects computers across the world.
+Data science combines statistics programming and domain knowledge.
+Thius a triwal messag, sjb siht gone wrong and it was right. 123 is the code. @125 %& * is the other code
+this is a trial msg.
+Name can be noun. Taj is the name of a famous hotel. Taj suffered a terrorist attack.
+Cybersecurity has become very important in modern era. This is because there are several cyber attacks. Attackers can inject virus in your computer.
+a good g.r.e score is 320 plus, you will need good toefl score as well

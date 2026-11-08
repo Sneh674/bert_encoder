@@ -34,10 +34,13 @@ class PositionalEmbedding(nn.Module):
         )
 
     def forward(self, input_ids):
+        print("input ids  in base positional embedding code:", input_ids.shape)
 
-        batch_size, seq_length = input_ids.shape
+        # batch_size, seq_length = input_ids.shape
+        # seq_length = input_ids.shape
+        seq_length = input_ids.size(0)
 
-        positions = torch.arange(seq_length)
+        positions = torch.arange(seq_length, device=input_ids.device)
 
         return self.embedding(positions)
 
